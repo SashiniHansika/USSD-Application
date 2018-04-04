@@ -1,0 +1,945 @@
+[ content=#678*, address=tel:94771122336, requestId=1521696123302, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1521696145694, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=*123*, address=tel:94771122336, requestId=1521696857285, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=1, address=tel:94771122336, requestId=1521728051468, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=1, address=tel:94771122336, requestId=1521728069461, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := 
+[ content=1, address=tel:94771122336, requestId=1521728640006, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1521728650780, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Helping Hands is Web based Disaster managemnet system.
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1521728663868, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := About
+Selected response message := Helping Hands is Web based Disaster managemnet system.
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1521728770500, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := About
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=999, address=tel:94771122336, requestId=1521728773420, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1521729401060, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1521729418715, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1521730002082, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=2, address=tel:94771122336, requestId=1521730004387, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=2, address=tel:94771122336, requestId=1521730013970, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=000, address=tel:94771122336, requestId=1521730032515, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+[ content=*676*, address=tel:94771122336, requestId=1521730302882, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:94771122336, requestId=1521730311538, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:94771122336, requestId=1521730321531, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:94771122336, requestId=1521730371538, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:94771122336, requestId=1521730378154, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Helping Hands is Web based Disaster managemnet system.
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1521730389234, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := About
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1521730397282, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1521730510898, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521730519186, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter User name
+                    Enter password
+                    999.Back
+[ content=#678*, address=tel:94771122336, requestId=1521867583485, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:94771122336, requestId=1521867593092, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:94771122336, requestId=1521867638636, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=2, address=tel:94771122336, requestId=1521867648245, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521867655787, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name and password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521867663012, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521867682748, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name and password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521867692972, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521867862796, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name and password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521867869492, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521867872987, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name and password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521868296003, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521868296755, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name and password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521868297011, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=2, address=tel:94771122336, requestId=1521868311331, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Sorry!!
+                You should Register frist in our system
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1521868327587, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521868335395, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name and password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521870071177, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521870080786, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521870088562, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521870106731, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1521870122690, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521870238618, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521870246177, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521870829801, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521870839601, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521870926289, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521870932937, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521871017633, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521871026488, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521871484520, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521871488736, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521871689695, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521871697872, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521871892968, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521871896808, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521871900872, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521871915096, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521871995432, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521872001312, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521872132832, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521872144464, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521872149552, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521872516256, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521872521647, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=#678*, address=tel:94771122336, requestId=1521888066024, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=#678*, address=tel:94771122336, requestId=1521888074104, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521888079714, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521888086376, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521888334496, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521888340815, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 
+[ content=1, address=tel:94771122336, requestId=1521888525545, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521888543207, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 
+[ content=2, address=tel:94771122336, requestId=1521888558608, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521888571583, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 
+[ content=2, address=tel:94771122336, requestId=1521888616357, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521888625631, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521888628798, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521888641519, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521888650294, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889144406, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521889153582, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889244510, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521889253158, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889337599, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521889346446, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889479318, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521889657263, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889667893, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1521889754246, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889761822, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter User name and password
+[ content=1, address=tel:94771122336, requestId=1521889892206, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521889900077, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter User name-password
+[ content=1, address=tel:94771122336, requestId=1521889912910, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521890379502, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter User name-password
+[ content=1-1, address=tel:94771122336, requestId=1521890389853, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1-1, address=tel:94771122336, requestId=1521890464757, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1521890479590, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1521890492845, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter User name-password
+[ content=1-123, address=tel:94771122336, requestId=1521890509037, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=#678*, address=tel:94771122336, requestId=1521899601188, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1521899612171, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 
+[ content=2, address=tel:94771122336, requestId=1521899645635, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 
+[ content=2, address=tel:94771122336, requestId=1521899653886, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521899668258, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521899694051, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1521899783722, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=#678*, address=tel:94771122336, requestId=1522081896405, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=1, address=tel:94771122336, requestId=1522081917502, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1522081935150, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=1, address=tel:94771122336, requestId=1522081944246, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Helping Hands is Web based Disaster managemnet system.
+                    999.Back
+[ content=2, address=tel:94771122336, requestId=1522081954028, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := About
+Selected response message := 
+[ content=2, address=tel:94771122336, requestId=1522081972645, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:94771122336, requestId=1522081986965, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522081993573, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522081999085, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=2, address=tel:94771122336, requestId=1522082012293, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Sorry!!
+                You should Register frist in our system
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1522082025325, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522082036589, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522082043701, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522082268269, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522082275700, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522082394372, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522082400140, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522082431908, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := 1.Enter User name 
+                     2.Enter password
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522082439308, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522082575876, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1522082588500, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter password
+[ content=1, address=tel:94771122336, requestId=1522082604404, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1522084140523, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter User Name
+[ content=1, address=tel:94771122336, requestId=1522084148476, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522084157354, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := Inform Disaster
+                    1.Registered Uesr
+                    2.New User
+                    999.Back
+[ content=2, address=tel:94771122336, requestId=1522084600234, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1522084609602, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter password
+[ content=2, address=tel:94771122336, requestId=1522084744475, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522084754410, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter name 
+                     2.Enter NIC
+                     3.Enter Disaster Type
+                     4.Enter Disaster Location
+                     5.Enter number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522084771658, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=1, address=tel:94771122336, requestId=1522084832410, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522084847970, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=#678*, address=tel:94771122336, requestId=1522235386757, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1522235399973, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=2, address=tel:94771122336, requestId=1522235414189, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522235427349, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522235438213, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=sashini, address=tel:94771122336, requestId=1522235447932, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1522235458084, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=958063374V, address=tel:94771122336, requestId=1522235475325, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=#678*, address=tel:94771122336, requestId=1522245968356, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1522245981763, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=2, address=tel:94771122336, requestId=1522245989011, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522245996779, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522246005187, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=Sashini, address=tel:94771122336, requestId=1522246017803, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1522246024171, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=505264544V, address=tel:94771122336, requestId=1522246036548, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=505264544V, address=tel:94771122336, requestId=1522252212716, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1522252223049, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522252228113, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=jxgjgf, address=tel:94771122336, requestId=1522252236577, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522252674913, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=ghf, address=tel:94771122336, requestId=1522252680688, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1522252689945, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=221464V, address=tel:94771122336, requestId=1522252701065, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=#678*, address=tel:94771122336, requestId=1522594812096, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1522594828990, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=955555265, address=tel:94771122336, requestId=1522594846159, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522594858246, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=affef, address=tel:94771122336, requestId=1522594868526, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=3, address=tel:94771122336, requestId=1522594874726, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Disaster Type
+[ content=2, address=tel:94771122336, requestId=1522597678844, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522597688395, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522597694996, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name
+[ content=Sashini, address=tel:94771122336, requestId=1522597709860, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1522597718995, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your NIC
+[ content=958056644V, address=tel:94771122336, requestId=1522597731459, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=3, address=tel:94771122336, requestId=1522597748587, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Disaster Type
+[ content=Flood, address=tel:94771122336, requestId=1522597756955, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=4, address=tel:94771122336, requestId=1522597769627, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Disaster Location
+[ content=Rathanapura, address=tel:94771122336, requestId=1522597782100, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=5, address=tel:94771122336, requestId=1522597791971, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter number of victims
+[ content=100, address=tel:94771122336, requestId=1522597800187, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Name 
+                     2.NIC
+                     3.Disaster Type
+                     4.Disaster Location
+                     5.number of victims
+                     999.back
+[ content=#678*, address=tel:94771122336, requestId=1522727856850, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform
+[ content=2, address=tel:94771122336, requestId=1522727866586, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message :=  Welcome to Helping Hands.. 
+                    1.About Helping Hands
+                    2.Inform Disaster
+                    000.Exit
+[ content=2, address=tel:94771122336, requestId=1522727997344, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522728004376, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name*NIC
+[ content=2005*50005, address=tel:94771122336, requestId=1522728020817, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1522728028648, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Disaster Type*Disaster Location*number of victims
+[ content=2, address=tel:94771122336, requestId=1522728410696, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522728416225, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := Inform-hist
+[ content=2, address=tel:94771122336, requestId=1522728419184, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522728426481, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name*NIC
+[ content=sashi*528525857V, address=tel:94771122336, requestId=1522728448456, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522728912072, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name*NIC
+[ content=sashiniya*958073377V, address=tel:94771122336, requestId=1522728930857, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=2, address=tel:94771122336, requestId=1522729181633, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Disaster Type*Disaster Location*number of victims
+[ content=2, address=tel:94771122336, requestId=1522729190744, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522729200225, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name*NIC
+[ content=sashiniya*958073377V, address=tel:94771122336, requestId=1522729205705, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522729744937, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name*NIC
+[ content=sashiniya*958073377V, address=tel:94771122336, requestId=1522729750873, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
+[ content=1, address=tel:94771122336, requestId=1522730215529, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform
+Selected response message := Enter Your Name*NIC
+[ content=sashiniya*958073377V, address=tel:94771122336, requestId=1522730223097, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := Inform-hist
+Selected response message := 1.Enter Your Details 
+                 2.Enter Disaster Details
+                     999.back
